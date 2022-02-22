@@ -1,15 +1,25 @@
 # PacMan
-Week 4 PacMan Assignment MIT  full-stack certificate
 
-Installation: I used Visual Studio Code to code it and put it together then simply uploaded the files to GitHub. 
+## Week 4 PacMan Assignment MIT  full-stack certificate
 
-Usage: To practive using JavaScript and learn from doing. Not much you can do with it now but watch it chomp across the screen.
+## Installation:  
 
-Support: N/A
+I used Visual Studio Code to code it and put it together then simply uploaded the files to GitHub. 
 
-Roadmap: It took me a while to figure out why the images were not showing up. As usual it was a simple mistake, I did not direct the image source to the folder with the images but instead had it pointed at just one image. I have fixed this issue. I would like to continue learning to code a full game of PacMan in the future. 
+## Usage:
 
-License information:
+To practive using JavaScript and learn from doing. Not much you can do with it now but watch it chomp across the screen.
+
+## Support:
+
+N/A
+
+## Roadmap: 
+
+It took me a while to figure out why the images were not showing up. As usual it was a simple mistake, I did not direct the image source to the folder with the images but
+instead had it pointed at just one image. I have fixed this issue. I would like to continue learning to code a full game of PacMan in the future. 
+
+## License information:
 
 MIT License
 
