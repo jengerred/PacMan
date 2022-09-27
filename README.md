@@ -8,7 +8,7 @@ I used Visual Studio Code to code it and put it together then simply uploaded th
 
 ## Usage:
 
-To practive using JavaScript and learn from doing. Not much you can do with it now but watch it chomp across the screen.
+To practice using JavaScript and learn from doing. Not much you can do with it now but watch it chomp across the screen.
 
 ## Support:
 
